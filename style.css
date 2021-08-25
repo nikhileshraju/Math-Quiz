@@ -1,0 +1,23 @@
+ body {
+    background-color: aquamarine;
+    background-image: url("Login Picture.jpeg");
+ }
+
+#heading {
+ color :blue;
+ font-size:80px;
+}
+
+ #p1_name , #p2_name
+{
+	margin-left: 20px;
+    width :50%;
+}
+
+.p1_login , .p2_login
+{
+    background:orange;
+    padding: 10px;
+    float: none;
+    border-radius: 15px;
+}
